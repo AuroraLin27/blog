@@ -1,0 +1,34 @@
+{
+    "name": "myblog",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "vuepress dev docs",
+        "build": "vuepress build docs"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@jridgewell/sourcemap-codec": "^1.4.15",
+        "@vssue/api-github-v3": "^1.4.7",
+        "@vssue/api-github-v4": "^1.4.7",
+        "@vssue/vuepress-plugin-vssue": "^1.4.8",
+        "@vuepress/plugin-back-to-top": "^1.9.9",
+        "@vuepress/plugin-medium-zoom": "^1.9.9",
+        "stylus": "^0.59.0",
+        "stylus-loader": "^3.0.2",
+        "template-compiler": "^1.2.1",
+        "vue": "^2.7.14",
+        "vue-server-renderer": "^2.7.14",
+        "vue-template-compiler": "^2.7.14",
+        "vuepress-plugin-comment": "^0.7.3",
+        "vuepress-plugin-music-bar": "^3.7.6",
+        "webpack": "^4.46.0"
+    },
+    "devDependencies": {
+        "vuepress-plugin-cursor-effects": "^1.1.6"
+    }
+}
