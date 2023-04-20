@@ -4,7 +4,7 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: '/kitty.png' }],
     ],
-    base: '/gum-blog/',
+    base: '/my-cream-gum-blog/',
     themeConfig: {
         logo: '/kitty.png',
         nav: [
