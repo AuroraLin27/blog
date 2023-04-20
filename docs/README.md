@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: kitty.png
-heroText: Aurora的奶油胶交流平台
+heroText: 奶油胶交流平台
 tagline: HELLO Welcome!
 actionText: 我要交流 →
 actionLink: '/commute/'
